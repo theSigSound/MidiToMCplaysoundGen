@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidiToMCplaysoundGen", "MidiToMCplaysoundGen\MidiToMCplaysoundGen.csproj", "{AEA0A1E8-0718-4377-99E9-E989253067A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA0A1E8-0718-4377-99E9-E989253067A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA0A1E8-0718-4377-99E9-E989253067A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA0A1E8-0718-4377-99E9-E989253067A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA0A1E8-0718-4377-99E9-E989253067A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82039A2B-2BF9-4A8E-BCF9-9BF78F75766D}
+	EndGlobalSection
+EndGlobal
