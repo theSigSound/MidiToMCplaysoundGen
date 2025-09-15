@@ -4,7 +4,7 @@
 - **NAudio**  
   ライセンス: MIT License  
   Copyright (c) 2020 Mark Heath  
-  ライセンス全文: [https://github.com/naudio/NAudio/blob/master/LICENSE.txt](https://github.com/naudio/NAudio/blob/master/LICENSE.txt)
+  ライセンス全文: [https://github.com/naudio/NAudio/blob/master/license.txt](https://github.com/naudio/NAudio/blob/master/license.txt)
 
 - **Newtonsoft.Json**  
   ライセンス: MIT License  
